@@ -37,6 +37,11 @@
   to = "/index.html"
   status = 200
 
+[[redirects]]
+  from = "/terms-of-service"
+  to = "/index.html"
+  status = 200
+
 # Security headers
 [[headers]]
   for = "/*"

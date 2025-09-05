@@ -17,6 +17,7 @@ import WebDesignJerusalem from './pages/WebDesignJerusalem';
 import ReputationManagement from './pages/ReputationManagement';
 import Accessibility from './components/Accessibility';
 import PrivacyPolicy from './components/PrivacyPolicy';
+import TermsOfService from './components/TermsOfService';
 
 function App() {
   return (
@@ -44,6 +45,7 @@ function App() {
           <Route path="/ניהול-מוניטין-בירושלים" element={<ReputationManagement />} />
           <Route path="/accessibility" element={<Accessibility />} />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+          <Route path="/terms-of-service" element={<TermsOfService />} />
         </Routes>
         <Footer />
         <CookieConsent />
