@@ -1,0 +1,8 @@
+# Netlify redirects for React Router
+/*    /index.html   200
+/web-design-jerusalem    /index.html   200
+/בניית-אתרים-ירושלים    /index.html   200
+/jerusalem-orm    /index.html   200
+/ניהול-מוניטין-בירושלים    /index.html   200
+/accessibility    /index.html   200
+/privacy-policy    /index.html   200
